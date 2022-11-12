@@ -17,7 +17,7 @@ EYT can help you to execute your daily bases tasks.
 
 That is something about it.
 
-Download now for experience the  [![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://drive.google.com/file/d/12evqi7lI0fmVteBbVFcdrFYktYXYGXqs/view?usp=sharing)
+Download now for experience the application [![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://drive.google.com/file/d/12evqi7lI0fmVteBbVFcdrFYktYXYGXqs/view?usp=sharing)
 
 
 made with ❤ by sidh
